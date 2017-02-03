@@ -1,0 +1,4 @@
+class Villain < ApplicationRecord
+
+  
+end

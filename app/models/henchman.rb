@@ -1,0 +1,2 @@
+class Henchman < ApplicationRecord
+end

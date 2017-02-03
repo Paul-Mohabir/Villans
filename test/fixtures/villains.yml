@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  motivation: 1
+  response: 1
+  strengths: 1
+  style: 1
+  tactic: 1
+
+two:
+  name: MyString
+  motivation: 1
+  response: 1
+  strengths: 1
+  style: 1
+  tactic: 1
